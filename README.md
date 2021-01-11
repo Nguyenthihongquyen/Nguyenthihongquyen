@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Nguyenthihongquyen/Nguyenthihongquyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <a href="https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/">
   <img align="left" alt="Ngoclan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
