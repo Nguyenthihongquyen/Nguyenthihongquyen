@@ -1,12 +1,7 @@
 ### Hi there 👋
-
-
-<a href="https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/">
-  <img align="left" alt="Ngoclan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br />
 
-I'm [Quyen](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/), a fresher Front-end Web Developer 🚀 in Viet Nam.
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">I'm [Quyen](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/), a fresher Front-end Web Developer 🚀 in Viet Nam.
   
 **Talking about Personal Stuffs:**
 
