@@ -6,7 +6,7 @@
 </a>
 <br />
 
-I'm [Quyen](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/), a fresher Front-end Web Developer 🚀 from Viet Nam.
+I'm [Quyen](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/), a fresher Front-end Web Developer 🚀 in Viet Nam.
   
 **Talking about Personal Stuffs:**
 
@@ -24,8 +24,8 @@ I'm [Quyen](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/), a fre
 📊 **This Week I Spent My Time On 👉👈:**
 <!--START_SECTION:waka-->
 ```text
-HTML, CSS, Boostrap            
-JavaScript ⚡                    
+CSS Flexbox, Grid 
+Boostrap ⚡                          
 ReactJS 🤔                
 ```
 <!--END_SECTION:waka-->
