@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ReactJS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nguyen-thi-hong-quyen-b357b3203/) , [Email](mailto:hongquyennthq@gmail.com)
-- 📝[Resume](https://drive.google.com/)
+- 📝[Resume](https://drive.google.com/file/d/1Zrj1G9t71EgSqGuCfEBMThdoCgDedbPq/view?usp=sharing)
 
 **Languages and Tools:**  
 
